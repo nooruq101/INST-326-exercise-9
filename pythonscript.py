@@ -1,0 +1,3 @@
+""" a python script with a simple function"""
+def say_hello():
+    print("Hello, World!")
